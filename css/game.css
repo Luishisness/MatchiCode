@@ -1,0 +1,42 @@
+table, tr,td {
+border: 1px solid black !important;
+margin: auto;
+}
+
+h1{
+margin: auto;
+text-align: center; 
+color:green;
+
+}
+
+#game{
+margin: auto;
+text-align: center; 
+background-color:white;
+width: 300px;
+padding: 10px;
+
+}
+#userTry{
+text-align: center; 
+}
+
+p{
+text-align: center; 
+}
+
+td {
+  border-radius: 10px;
+  padding: 5px;
+  width: 200px;
+}
+
+html{
+	background-image: url("../images/christmas.jpg") ; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+/*td{visibility:hidden;}*/
